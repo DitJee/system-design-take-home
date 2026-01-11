@@ -22,6 +22,8 @@
 > - [Retry Strategy](#retry-strategy)
 >
 >   - [Dead Letter Queue](#dead-letter-queue)
+>
+> - [Future Improvements](#future-improvements)
 
 ## Overview
 

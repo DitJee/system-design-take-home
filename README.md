@@ -62,7 +62,7 @@ So, to complete all these operations, the best time-to-complete is
 
 ## Architecture Overview
 
-![Description of your diagram](assets\system-design-take-home.png)
+![Description of your diagram](./assets/system-design-take-home.png)
 
 From the diagram above, the execution flow is summarized below:
 
